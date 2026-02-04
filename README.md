@@ -58,6 +58,7 @@ For advanced features like multi-file linking, versioning, and agent integration
 - [`SPEC.md`](SPEC.md) – Full v0.1 specification
 - [`/examples`](examples/) – Real-world examples (Viridis renewables, StratClaw agent, etc.)
 - [`/templates`](templates/) – Ready-to-use starters for each document type
+- [`/agents`](agents/) – Agent integrations (OpenClaw skill, etc.)
 
 ## License
 
